@@ -1,7 +1,7 @@
 import React from 'react';
 
-const App = () => (
-  <h1>Pokémons</h1>
-);
+function App() {
+  return <h1>Pokémons</h1>;
+}
 
 export default App;
